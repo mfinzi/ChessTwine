@@ -1,0 +1,16 @@
+﻿Build started 1/30/2016 2:13:35 PM.
+     1>Project "c:\Users\Larry\documents\visual studio 2015\Projects\ChessTwine\ChessTwine\ChessTwine.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\program files windows 7 x86 extension\VisualStudio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\ChessTwine.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt ChessBoard.cpp
+         ChessBoard.cpp
+       Link:
+         D:\program files windows 7 x86 extension\VisualStudio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\larry\documents\visual studio 2015\Projects\ChessTwine\Debug\ChessTwine.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"c:\users\larry\documents\visual studio 2015\Projects\ChessTwine\Debug\ChessTwine.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\larry\documents\visual studio 2015\Projects\ChessTwine\Debug\ChessTwine.lib" /MACHINE:X86 Debug\ChessBoard.obj
+         Debug\ChessTwine.obj
+         Debug\Engine.obj
+         Debug\stdafx.obj
+         ChessTwine.vcxproj -> c:\users\larry\documents\visual studio 2015\Projects\ChessTwine\Debug\ChessTwine.exe
+     1>Done Building Project "c:\Users\Larry\documents\visual studio 2015\Projects\ChessTwine\ChessTwine\ChessTwine.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.86
