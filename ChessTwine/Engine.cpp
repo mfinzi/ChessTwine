@@ -28,8 +28,6 @@ void Engine<gameBoard>::reOrderMoves(std::vector<MoveStr>& moveList) {
 // 	if (nodeScore > alpha) alpha = nodeScore;
 // 	vector<gameBoard> movesWithCapture = generateCaptures();
 // 	for(auto it = movesWithCapture.begin(); it!= movesWithCapture.end(); ++it){
-// 		/// REMEMBER WHAT I WAS THINKING HERE< MAYBE CHANGE HOW MOVES ARE STORED, avoid board copies, hold strings
-//		/// I GOT YOU, DON"T WORRY, I took care of it. TOnight. WHat do you think of the results?
 // 	}
 // }
 
